@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-
+import {flags} from '@heroku-cli/command';
 import './App.css';
 
 import ResultComponent from './components/ResultComponent';
